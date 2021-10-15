@@ -1,0 +1,1 @@
+print("Another type of hello")
